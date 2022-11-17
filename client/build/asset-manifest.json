@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5d8701e.css",
+    "main.js": "/static/js/main.a1bc3f1d.js",
+    "static/js/787.aeaf3a6a.chunk.js": "/static/js/787.aeaf3a6a.chunk.js",
+    "static/media/beautiSection.jpg": "/static/media/beautiSection.bcee394f6954bf0eeca4.jpg",
+    "static/media/shipping.jpg": "/static/media/shipping.ad9585fcf0a142380736.jpg",
+    "static/media/amazonHome.jpg": "/static/media/amazonHome.37e38a1c83060cf8ec40.jpg",
+    "static/media/amazon.png": "/static/media/amazon.64a0d895e5f0098d5422.png",
+    "static/media/Electronics.jpg": "/static/media/Electronics.07344826cec816371e04.jpg",
+    "static/media/Prime-day-banner.png": "/static/media/Prime-day-banner.ea9b851601aa0ecfe567.png",
+    "index.html": "/index.html",
+    "main.f5d8701e.css.map": "/static/css/main.f5d8701e.css.map",
+    "main.a1bc3f1d.js.map": "/static/js/main.a1bc3f1d.js.map",
+    "787.aeaf3a6a.chunk.js.map": "/static/js/787.aeaf3a6a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d8701e.css",
+    "static/js/main.a1bc3f1d.js"
+  ]
+}
